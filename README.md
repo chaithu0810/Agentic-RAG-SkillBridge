@@ -64,6 +64,3 @@ Agentic_RAG_SkillBridge/
 streamlit run app.py
 ```
 
-## Reference Date
-
-15 January 2025
