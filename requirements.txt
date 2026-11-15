@@ -1,0 +1,12 @@
+pandas
+numpy
+ollama
+langchain
+langchain-community
+langchain-ollama
+langchain-text-splitters
+faiss-cpu
+streamlit
+scikit-learn
+pydantic
+python-dotenv
